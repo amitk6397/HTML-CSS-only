@@ -30,6 +30,7 @@ body{
 	z-index: 1;
 	transform-origin: bottom right;
 	animation: animate 6s linear infinite;
+	animation-delay: -4.5s;
 }
 .box::after{
 	content: '';
